@@ -1,0 +1,8 @@
+===================================================================
+A página original em que esses arquivos foram obtidos é:
+https://github.com/digitronik/tutorial-tkinter.git
+
+Ele foi obtido em: 14/08/19
+
+===================================================================
+
