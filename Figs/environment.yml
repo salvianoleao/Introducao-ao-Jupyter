@@ -1,0 +1,5 @@
+name: talk-environment
+channels:
+  - damianavila82
+dependencies:
+  - rise
